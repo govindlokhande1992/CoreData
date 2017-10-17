@@ -3,7 +3,7 @@
 import UIKit
 import CoreData
 
-class FetchControlleerViewController: UIViewController {
+class FetchViewController: UIViewController {
     
     @IBOutlet var fetchTableview: UITableView!
     var people : [NSManagedObject] = []
