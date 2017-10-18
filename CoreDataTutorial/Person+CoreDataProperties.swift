@@ -2,9 +2,9 @@
 //  Person+CoreDataProperties.swift
 //  CoreDataTutorial
 //
-//  Created by Vivek on 2017-08-25.
-//  Copyright © 2017 VivekVardhan. All rights reserved.
-//
+//  Created by Govind on 2017-08-25.
+//  Copyright © 2017 Govind Lokhande. All rights reserved.
+//  Author:- Govind 
 //
 
 import Foundation
